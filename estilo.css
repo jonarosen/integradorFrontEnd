@@ -12,10 +12,19 @@ body, html{
 
 /*Navbar*/
 
-.navbar{
+.navbar {
     background-color: rgb(53, 58, 64);
+    
    
 
+}
+
+#logo{
+    margin-left: 2rem;
+}
+
+#navbarSupportedContent{
+    margin-right: 3rem;
 }
 
 .nav-link{
